@@ -11,7 +11,7 @@ conda==4.5.11
 cryptography==2.4.1
 cycler==0.10.0
 decorator==4.3.0
-Django==2.2
+Django==2.2.13
 entrypoints==0.2.3
 future==0.17.1
 idna==2.7
